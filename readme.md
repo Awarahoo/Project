@@ -1,1 +1,1 @@
-A basic mern application backend
+an extensive mern application backend
